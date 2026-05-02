@@ -1,0 +1,40 @@
+#header-1 {
+    color: rgb(0, 0, 0);
+}
+#para-1 {
+    color: rgb(0, 0, 0);
+}
+#header-1 {
+    margin: 30px;
+}
+#para-1 {
+    margin: 30px;
+}
+#header-2 {
+    margin: 30px;
+}
+#para-2 {
+    margin: 30px;
+}
+#para {
+    padding: 30px;
+}
+.bg-coral {
+    background-color: coral;
+}
+.box {
+    width: 50px;
+    height: 50px;
+}
+
+.red {
+    background-color: brown;
+}
+
+.green {
+    background-color: aquamarine;
+}
+
+.blue {
+    background-color: blue;
+}
