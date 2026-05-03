@@ -1,0 +1,48 @@
+#kok-1 {
+    margin: 50px;
+}
+#kok-2 {
+    margin: 50px;
+}
+#kok-3 {
+    margin: 50px;
+}
+#kok-4 {
+    margin: 50px;
+}
+#kok-5 {
+    margin: 50px;
+}
+#kok-6 {
+    margin: 50px;
+}
+.bg-coral {
+    background-color: coral;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    width: 200px;
+}
+.bg-yellow {
+    background-color: yellowgreen;
+}
+.bg-red {
+    background-color: aqua;
+}
+.bg-blue {
+    background-color: rgb(0, 255, 136);
+}
+img { max-width: 100%;
+    height: auto;
+    width: 200px;
+}
+.bg-rov {
+    background-color: crimson;
+}
+.bg-rom {
+    background-color: aquamarine;
+}
+.bg-rob {
+    background-color: bisque;
+}
